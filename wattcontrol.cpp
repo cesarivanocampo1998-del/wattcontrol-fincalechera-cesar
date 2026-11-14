@@ -342,3 +342,4 @@ int main() {
 
     return 0;
 }
+// Compromiso 3: Versión final lista para simulación
