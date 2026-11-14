@@ -1,3 +1,4 @@
+// Compromiso 2: Actualización de comentarios - Finca Lechera
 #include <iostream>
 #include <string>
 #include <cstdlib>
